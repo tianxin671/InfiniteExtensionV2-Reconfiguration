@@ -1,0 +1,2 @@
+# InfiniteExtensionV2-Reconfiguration
+无尽扩展V2的重制版
