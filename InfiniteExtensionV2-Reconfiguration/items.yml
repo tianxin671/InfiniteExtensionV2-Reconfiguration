@@ -1,0 +1,971 @@
+WUJINJIESHAO:
+  item_group: wujinkuozhan
+  item:
+    name: "&e&kll&b无尽&4扩展&a&lV2&4&kll&9&l重置版介绍"
+    material: PAPER
+    lore:
+    - "&a&l这是由mctianxin重置的版本"
+    - "&b&l原创作者是b站的 &c&l鸽の火山君Hy"
+    - "&c&l增加了一些机器和物品"
+    - "&d&l修改了一些机器和物品"
+    - "&b&l当前版本 &d&lV1.1"
+    - "&e&l感谢你的游玩"
+    glow: true
+  recipe_type: NULL
+WUJIN_TUDOU:
+  item_group: wujinkuozhan
+  item:
+    name: "&e无&a尽&b土&d豆"
+    lore:
+    - ""
+    - "&e&kll&b无尽&4扩展&a&lV2&4&kll &f- &9&l重置版"
+    material: POTATO
+    glow: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: INFINITE_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: INFINITE_INGOT
+      amount: 1
+    3:
+      material_type: slimefun
+      material: INFINITE_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: INFINITE_INGOT
+      amount: 1
+    5:
+      material: POTATO
+      amount: 1
+    6:
+      material_type: slimefun
+      material: INFINITE_INGOT
+      amount: 1
+    7:
+      material_type: slimefun
+      material: INFINITE_INGOT
+      amount: 1
+    8:
+      material_type: slimefun
+      material: INFINITE_INGOT
+      amount: 1
+    9:
+      material_type: slimefun
+      material: INFINITE_INGOT
+      amount: 1
+SIHE_QIDIAN:
+  item_group: wujinkuozhan
+  item:
+    name: "&a四&6合&d奇&8点"
+    material: NETHER_STAR
+    lore:
+    - ""
+    - "&e&kll&b无尽&4扩展&a&lV2&4&kll &f- &9&l重置版"
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    2:
+      material_type: slimefun
+      material: EARTH_SINGULARITY
+      amount: 1
+    4:
+      material_type: slimefun
+      material: FORTUNE_SINGULARITY
+      amount: 1
+    5:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    6:
+      material_type: slimefun
+      material: MAGIC_SINGULARITY
+      amount: 1
+    8:
+      material_type: slimefun
+      material: METAL_SINGULARITY
+      amount: 1
+WUJIN_XUKONG_DING:
+  item_group: wujinkuozhan
+  item:
+    name: "&b无尽&8虚空&9锭"
+    lore:
+    - ""
+    - "&e&kll&b无尽&4扩展&a&lV2&4&kll &f- &9&l重置版"
+    material: NETHERITE_INGOT
+    glow: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: INFINITE_INGOT
+      amount: 1
+KAPIANKUANGJIA:
+  item_group: wujinkuozhan
+  item:
+    name: "&f卡片框架"
+    lore:
+    - ""
+    - "&e&kll&b无尽&4扩展&a&lV2&4&kll &f- &9&l重置版"
+    material: GLASS_PANE
+    glow: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: MAGNONIUM
+      amount: 1
+    2:
+      material_type: slimefun
+      material: MACHINE_CORE
+      amount: 1
+    3:
+      material_type: slimefun
+      material: MYTHRIL
+      amount: 1
+    4:
+      material_type: slimefun
+      material: MACHINE_CORE
+      amount: 1
+    5:
+      material_type: slimefun
+      material: SIHE_QIDIAN
+      amount: 1
+    6:
+      material_type: slimefun
+      material: MACHINE_CORE
+      amount: 1
+    7:
+      material_type: slimefun
+      material: TITANIUM
+      amount: 1
+    8:
+      material_type: slimefun
+      material: MACHINE_CORE
+      amount: 1
+    9:
+      material_type: slimefun
+      material: ADAMANTITE
+      amount: 1
+WUJIN_KA:
+  item_group: wujinkuozhan
+  item:
+    name: "&e无&a尽&b卡"
+    lore:
+    - ""
+    - "&e&kll&b无尽&4扩展&a&lV2&4&kll &f- &9&l重置版"
+    material: NETHERITE_SCRAP
+    glow: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: INFINITE_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: INFINITE_INGOT
+      amount: 1
+    3:
+      material_type: slimefun
+      material: INFINITE_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: INFINITE_INGOT
+      amount: 1
+    5:
+      material_type: slimefun
+      material: KAPIANKUANGJIA
+      amount: 1
+    6:
+      material_type: slimefun
+      material: INFINITE_INGOT
+      amount: 1
+    7:
+      material_type: slimefun
+      material: INFINITE_INGOT
+      amount: 1
+    8:
+      material_type: slimefun
+      material: INFINITE_INGOT
+      amount: 1
+    9:
+      material_type: slimefun
+      material: INFINITE_INGOT
+      amount: 1
+XUKONG_KA:
+  item_group: wujinkuozhan
+  item:
+    name: "&8虚空卡"
+    lorep:
+    - ""
+    - "&e&kll&b无尽&4扩展&a&lV2&4&kll &f- &9&l重置版"
+    material: CHARCOAL
+    glow: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    3:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    5:
+      material_type: slimefun
+      material: KAPIANKUANGJIA
+      amount: 1
+    6:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    7:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    8:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    9:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+WUJIN_XUKONG_KA:
+  item_group: wujinkuozhan
+  item:
+    name: "&b无尽&8虚空&9卡"
+    lore:
+    - ""
+    - "&e&kll&b无尽&4扩展&a&lV2&4&kll &f- &9&l重置版"
+    material: FLINT
+    glow: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: WUJIN_XUKONG_DING
+      amount: 1
+    2:
+      material_type: slimefun
+      material: WUJIN_XUKONG_DING
+      amount: 1
+    3:
+      material_type: slimefun
+      material: WUJIN_XUKONG_DING
+      amount: 1
+    4:
+      material_type: slimefun
+      material: WUJIN_XUKONG_DING
+      amount: 1
+    5:
+      material_type: slimefun
+      material: KAPIANKUANGJIA
+      amount: 1
+    6:
+      material_type: slimefun
+      material: WUJIN_XUKONG_DING
+      amount: 1
+    7:
+      material_type: slimefun
+      material: WUJIN_XUKONG_DING
+      amount: 1
+    8:
+      material_type: slimefun
+      material: WUJIN_XUKONG_DING
+      amount: 1
+    9:
+      material_type: slimefun
+      material: WUJIN_XUKONG_DING
+      amount: 1
+XUKONG_WUZHI:
+  item_group: wujinkuozhan
+  item:
+    name: "&8虚空物质"
+    lore:
+    - ""
+    - "&e&kll&b无尽&4扩展&a&lV2&4&kll &f- &9&l重置版"
+    material: END_CRYSTAL
+  recipe_type: XUKONG_WUZHI_ZHIZAOJI
+  recipe:
+    1:
+      material_type: slimefun
+      material: XUKONG_KA
+      amount: 64
+    2:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 64
+WUJIN_KAPIANJI_HEXIN:
+  item_group: wujinkuozhan
+  item:
+    name: "&e无&a尽&b卡&d片&5机&6核&c心"
+    lore:
+    - ""
+    - "&e&kll&b无尽&4扩展&a&lV2&4&kll &f- &9&l重置版"
+    material: ENDER_PEARL
+    glow: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: WUJIN_KA
+      amount: 1
+    2:
+      material_type: slimefun
+      material: INFINITY_SINGULARITY
+      amount: 1
+    3:
+      material_type: slimefun
+      material: WUJIN_KA
+      amount: 1
+    4:
+      material_type: slimefun
+      material: INFINITY_SINGULARITY
+      amount: 1
+    5:
+      material_type: slimefun
+      material: INFINITY_SINGULARITY
+      amount: 1
+    6:
+      material_type: slimefun
+      material: INFINITY_SINGULARITY
+      amount: 1
+    7:
+      material_type: slimefun
+      material: WUJIN_KA
+      amount: 1
+    8:
+      material_type: slimefun
+      material: INFINITY_SINGULARITY
+      amount: 1
+    9:
+      material_type: slimefun
+      material: WUJIN_KA
+      amount: 1
+CHAOJI_WUJIN_QIDIAN:
+  item_group: wujinkuozhan
+  item:
+    name: "&e超&a级&b无&d尽&5奇&6点"
+    lore:
+    - ""
+    - "&e&kll&b无尽&4扩展&a&lV2&4&kll &f- &9&l重置版"
+    material: QUARTZ_BLOCK
+    glow: true
+  recipe_type: TESHU_QIDIAN_GOUZAOJI
+  recipe:
+    1:
+      material_type: slimefun
+      material: INFINITY_SINGULARITY
+      amount: 64
+    2:
+      material_type: slimefun
+      material: WUJIN_KA
+      amount: 64
+XUKONG_QIDIAN:
+  item_group: wujinkuozhan
+  item:
+    name: "&8虚空奇点"
+    lore:
+    - ""
+    - "&e&kll&b无尽&4扩展&a&lV2&4&kll &f- &9&l重置版"
+    material: NETHERITE_BLOCK
+  recipe_type: TESHU_QIDIAN_GOUZAOJI
+  recipe:
+    1:
+      material_type: slimefun
+      material: XUKONG_KA
+      amount: 64
+    2:
+      material_type: slimefun
+      material: XUKONG_WUZHI
+      amount: 64
+WUJIN_XUKONG_QIDIAN:
+  item_group: wujinkuozhan
+  item:
+    name: "&b无尽&8虚空&9奇点"
+    lore:
+    - ""
+    - "&e&kll&b无尽&4扩展&a&lV2&4&kll &f- &9&l重置版"
+    material: CRYING_OBSIDIAN
+    glow: true
+  recipe_type: TESHU_QIDIAN_GOUZAOJI
+  recipe:
+    1:
+      material_type: slimefun
+      material: WUJIN_XUKONG_KA
+      amount: 64
+    2:
+      material_type: slimefun
+      material: WUJIN_XUKONG_DING
+      amount: 64
+WUJIN_KAPIANJI_WEIZHIDING:
+  item_group: wujinkuozhan
+  item:
+    name: "&b无尽卡片机-&c未指定物品"
+    material: FURNACE
+    lore:
+    - "&d---------介绍---------"
+    - "&b需要跟指定的物品合成才可操作"
+    - "&d---------------------"
+    - ""
+    - "&e&kll&b无尽&4扩展&a&lV2&4&kll &f- &9&l重置版"
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: XUKONG_WUZHI
+      amount: 1
+    2:
+      material_type: slimefun
+      material: XUKONG_QIDIAN
+      amount: 1
+    3:
+      material_type: slimefun
+      material: XUKONG_WUZHI
+      amount: 1
+    4:
+      material_type: slimefun
+      material: CHAOJI_WUJIN_QIDIAN
+      amount: 1
+    5:
+      material_type: slimefun
+      material: WUJIN_KAPIANJI_HEXIN
+      amount: 1
+    6:
+      material_type: slimefun
+      material: CHAOJI_WUJIN_QIDIAN
+      amount: 1
+    7:
+      material_type: slimefun
+      material: WUJIN_XUKONG_QIDIAN
+      amount: 1
+    8:
+      material_type: slimefun
+      material: XUKONG_WUZHI
+      amount: 1
+    9:
+      material_type: slimefun
+      material: WUJIN_XUKONG_QIDIAN
+      amount: 1
+WUJIN_KAPIANJI_JIHUO_HEXIN:
+  item_group: wujinkuozhan
+  item:
+    name: "&e无&a尽&b卡&d片&5机&6激&c活&9核&1心"
+    lore:
+    - ""
+    - "&e&kll&b无尽&4扩展&a&lV2&4&kll &f- &9&l重置版"
+    material: STRUCTURE_VOID
+    glow: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: CHAOJI_WUJIN_QIDIAN
+      amount: 1
+    2:
+      material_type: slimefun
+      material: WUJIN_KA
+      amount: 1
+    3:
+      material_type: slimefun
+      material: CHAOJI_WUJIN_QIDIAN
+      amount: 1
+    4:
+      material_type: slimefun
+      material: WUJIN_KA
+      amount: 1
+    5:
+      material_type: slimefun
+      material: WUJIN_KAPIANJI_HEXIN
+      amount: 1
+    6:
+      material_type: slimefun
+      material: WUJIN_KA
+      amount: 1
+    7:
+      material_type: slimefun
+      material: CHAOJI_WUJIN_QIDIAN
+      amount: 1
+    8:
+      material_type: slimefun
+      material: WUJIN_KA
+      amount: 1
+    9:
+      material_type: slimefun
+      material: CHAOJI_WUJIN_QIDIAN
+      amount: 1
+CHAOJI_WUJIN_TUDOU:
+  item_group: wujinkuozhan
+  item:
+    name: "&e超&a级&b无&d尽&5土&6豆"
+    lore:
+    - ""
+    - "&e&kll&b无尽&4扩展&a&lV2&4&kll &f- &9&l重置版"
+    material_type: skull_base64
+    material: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmIyNWE1OWE4YTZjMmRhYjJlMTcxYjVhMjAxNTEzNjg5NmRhMGY1ZjFlYTg3ZWU3MDYxOTQyMDk4NWNjNzQ5NyJ9fX0=
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: WUJIN_TUDOU
+      amount: 1
+    2:
+      material_type: slimefun
+      material: WUJIN_TUDOU
+      amount: 1
+    3:
+      material_type: slimefun
+      material: WUJIN_TUDOU
+      amount: 1
+    4:
+      material_type: slimefun
+      material: WUJIN_TUDOU
+      amount: 1
+    5:
+      material_type: slimefun
+      material: WUJIN_TUDOU
+      amount: 1
+    6:
+      material_type: slimefun
+      material: WUJIN_TUDOU
+      amount: 1
+    7:
+      material_type: slimefun
+      material: WUJIN_TUDOU
+      amount: 1
+    8:
+      material_type: slimefun
+      material: WUJIN_TUDOU
+      amount: 1
+    9:
+      material_type: slimefun
+      material: WUJIN_TUDOU
+      amount: 1
+WUJIN_CHILUN:
+  item_group: wujinkuozhan
+  item:
+    name: "&e无&a尽&b齿&d轮"
+    lore:
+    - ""
+    - "&e&kll&b无尽&4扩展&a&lV2&4&kll &f- &9&l重置版"
+    material: REDSTONE_TORCH
+    glow: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: WUJIN_XUKONG_KA
+      amount: 1
+    2:
+      material_type: slimefun
+      material: WUJIN_XUKONG_KA
+      amount: 1
+    3:
+      material_type: slimefun
+      material: WUJIN_XUKONG_KA
+      amount: 1
+    4:
+      material_type: slimefun
+      material: WUJIN_KA
+      amount: 1
+    5:
+      material_type: slimefun
+      material: WUJIN_KA
+      amount: 1
+    6:
+      material_type: slimefun
+      material: WUJIN_KA
+      amount: 1
+    7:
+      material_type: slimefun
+      material: XUKONG_KA
+      amount: 1
+    8:
+      material_type: slimefun
+      material: XUKONG_KA
+      amount: 1
+    9:
+      material_type: slimefun
+      material: XUKONG_KA
+      amount: 1
+CHONGZU_KA:
+  item_group: wujinkuozhan
+  item:
+    name: "&b重组卡"
+    lore:
+    - ""
+    - "&e&kll&b无尽&4扩展&a&lV2&4&kll &f- &9&l重置版"
+    material: PAINTING
+    glow: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: WUJIN_KA
+      amount: 1
+    2:
+      material_type: slimefun
+      material: CHAOJI_WUJIN_TUDOU
+      amount: 1
+    3:
+      material_type: slimefun
+      material: WUJIN_KA
+      amount: 1
+    4:
+      material_type: slimefun
+      material: CHAOJI_WUJIN_TUDOU
+      amount: 1
+    5:
+      material_type: slimefun
+      material: KAPIANKUANGJIA
+      amount: 1
+    6:
+      material_type: slimefun
+      material: CHAOJI_WUJIN_TUDOU
+      amount: 1
+    7:
+      material_type: slimefun
+      material: WUJIN_KA
+      amount: 1
+    8:
+      material_type: slimefun
+      material: CHAOJI_WUJIN_TUDOU
+      amount: 1
+    9:
+      material_type: slimefun
+      material: WUJIN_KA
+      amount: 1
+CHONGZUJI_DIANXIAN_HONG:
+  item_group: wujinkuozhan
+  item:
+    name: "&e重组机电线-&c红"
+    lore:
+    - ""
+    - "&e&kll&b无尽&4扩展&a&lV2&4&kll &f- &9&l重置版"
+    material: WEEPING_VINES
+    glow: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: WUJIN_CHILUN
+      amount: 1
+    2:
+      material_type: slimefun
+      material: XUKONG_WUZHI
+      amount: 1
+    3:
+      material_type: slimefun
+      material: WUJIN_CHILUN
+      amount: 1
+    4:
+      material_type: slimefun
+      material: XUKONG_WUZHI
+      amount: 1
+    5:
+      material_type: slimefun
+      material: MAGNONIUM
+      amount: 1
+    6:
+      material_type: slimefun
+      material: XUKONG_WUZHI
+      amount: 1
+    7:
+      material_type: slimefun
+      material: WUJIN_CHILUN
+      amount: 1
+    8:
+      material_type: slimefun
+      material: XUKONG_WUZHI
+      amount: 1
+    9:
+      material_type: slimefun
+      material: WUJIN_CHILUN
+      amount: 1
+CHONGZUJI_DIANXIAN_LAN:
+  item_group: wujinkuozhan
+  item:
+    name: "&e重组机电线-&c蓝"
+    lore:
+    - ""
+    - "&e&kll&b无尽&4扩展&a&lV2&4&kll &f- &9&l重置版"
+    material: TWISTING_VINES
+    glow: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: WUJIN_CHILUN
+      amount: 1
+    2:
+      material_type: slimefun
+      material: XUKONG_WUZHI
+      amount: 1
+    3:
+      material_type: slimefun
+      material: WUJIN_CHILUN
+      amount: 1
+    4:
+      material_type: slimefun
+      material: XUKONG_WUZHI
+      amount: 1
+    5:
+      material_type: slimefun
+      material: ADAMANTITE
+      amount: 1
+    6:
+      material_type: slimefun
+      material: XUKONG_WUZHI
+      amount: 1
+    7:
+      material_type: slimefun
+      material: WUJIN_CHILUN
+      amount: 1
+    8:
+      material_type: slimefun
+      material: XUKONG_WUZHI
+      amount: 1
+    9:
+      material_type: slimefun
+      material: WUJIN_CHILUN
+      amount: 1
+WUJIN_JIAOSHUI:
+  item_group: wujinkuozhan
+  item:
+    name: "&e无&a尽&b胶&d水"
+    lore:
+    - ""
+    - "&e&kll&b无尽&4扩展&a&lV2&4&kll &f- &9&l重置版"
+    material: HONEY_BOTTLE
+    glow: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: CHAOJI_WUJIN_QIDIAN
+      amount: 1
+    2:
+      material_type: slimefun
+      material: CHAOJI_WUJIN_QIDIAN
+      amount: 1
+    3:
+      material_type: slimefun
+      material: CHAOJI_WUJIN_QIDIAN
+      amount: 1
+    4:
+      material: SLIME_BLOCK
+      amount: 1
+    5:
+      material: HONEY_BLOCK
+      amount: 1
+    6:
+      material: SLIME_BLOCK
+      amount: 1
+    7:
+      material_type: slimefun
+      material: CHAOJI_WUJIN_QIDIAN
+      amount: 1
+    8:
+      material_type: slimefun
+      material: CHAOJI_WUJIN_QIDIAN
+      amount: 1
+    9:
+      material_type: slimefun
+      material: CHAOJI_WUJIN_QIDIAN
+      amount: 1
+WUJIN_YITI_HEXIN:
+  item_group: wujinkuozhan
+  item:
+    name: "&e无&a尽&b一&d体&5核&6心"
+    lore:
+    - ""
+    - "&e&kll&b无尽&4扩展&a&lV2&4&kll &f- &9&l重置版"
+    material: SOUL_LANTERN
+    glow: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: INFINITY_STORAGE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: INFINITE_MACHINE_CIRCUIT
+      amount: 1
+    3:
+      material_type: slimefun
+      material: INFINITY_REACTOR
+      amount: 1
+    4:
+      material_type: slimefun
+      material: XUKONG_QIDIAN
+      amount: 1
+    5:
+      material_type: slimefun
+      material: CHAOJI_WUJIN_QIDIAN
+      amount: 1
+    6:
+      material_type: slimefun
+      material: WUJIN_XUKONG_QIDIAN
+      amount: 1
+    7:
+      material_type: slimefun
+      material: COMPRESSED_COBBLESTONE_5
+      amount: 1
+    8:
+      material_type: slimefun
+      material: INFINITE_MACHINE_CORE
+      amount: 1
+    9:
+      material_type: slimefun
+      material: ENDER_DRAGON_DATA_CARD
+      amount: 1
+WUJIN_MEIGUI:
+  item_group: wujinkuozhan
+  item:
+    name: "&e无&a尽&b玫&d瑰"
+    lore:
+    - ""
+    - "&e&kll&b无尽&4扩展&a&lV2&4&kll &f- &9&l重置版"
+    material: CORNFLOWER
+    glow: true
+  recipe_type: WUJIN_CHONGZUJI
+  recipe:
+    1:
+      material_type: mc
+      material: WITHER_ROSE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: INFINITE_INGOT
+      amount: 1
+XUKONG_MEIGUI:
+  item_group: wujinkuozhan
+  item:
+    name: "&8虚空玫瑰"
+    lore:
+    - ""
+    - "&e&kll&b无尽&4扩展&a&lV2&4&kll &f- &9&l重置版"
+    material: WITHER_ROSE
+    glow: true
+  recipe_type: WUJIN_CHONGZUJI
+  recipe:
+    1:
+      material_type: mc
+      material: WITHER_ROSE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+WUJIN_CHONGZU_KA:
+  item_group: wujinkuozhan
+  item:
+    name: "&e无&a尽&b重&d组&5卡"
+    lore:
+    - ""
+    - "&e&kll&b无尽&4扩展&a&lV2&4&kll &f- &9&l重置版"
+    material: PINK_STAINED_GLASS_PANE
+    glow: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: CHAOJI_WUJIN_QIDIAN
+      amount: 1
+    2:
+      material_type: slimefun
+      material: CHONGZU_KA
+      amount: 1
+    3:
+      material_type: slimefun
+      material: CHAOJI_WUJIN_QIDIAN
+      amount: 1
+    4:
+      material_type: slimefun
+      material: CHONGZU_KA
+      amount: 1
+    5:
+      material_type: slimefun
+      material: KAPIANKUANGJIA
+      amount: 1
+    6:
+      material_type: slimefun
+      material: CHONGZU_KA
+      amount: 1
+    7:
+      material_type: slimefun
+      material: CHAOJI_WUJIN_QIDIAN
+      amount: 1
+    8:
+      material_type: slimefun
+      material: CHONGZU_KA
+      amount: 1
+    9:
+      material_type: slimefun
+      material: CHAOJI_WUJIN_QIDIAN
+      amount: 1
+WUJIN_MEIGUI_YANGLIAO:
+  item_group: wujinkuozhan
+  item:
+    name: "&b无尽玫瑰养料"
+    lore:
+    - ""
+    - "&e&kll&b无尽&4扩展&a&lV2&4&kll &f- &9&l重置版"
+    material: NETHER_STAR
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: CHAOJI_WUJIN_QIDIAN
+      amount: 1
+    2:
+      material_type: slimefun
+      material: CHAOJI_WUJIN_QIDIAN
+      amount: 1
+    3:
+      material_type: slimefun
+      material: CHAOJI_WUJIN_QIDIAN
+      amount: 1
+    4:
+      material_type: slimefun
+      material: WUJIN_XUKONG_QIDIAN
+      amount: 1
+    5:
+      material_type: slimefun
+      material: CHAOJI_WUJIN_TUDOU
+      amount: 1
+    6:
+      material_type: slimefun
+      material: WUJIN_XUKONG_QIDIAN
+      amount: 1
+    7:
+      material_type: slimefun
+      material: XUKONG_QIDIAN
+      amount: 1
+    8:
+      material_type: slimefun
+      material: XUKONG_QIDIAN
+      amount: 1
+    9:
+      material_type: slimefun
+      material: XUKONG_QIDIAN
+      amount: 1

@@ -1,0 +1,348 @@
+XUKONG_WUZHI_ZHIZAOJI:
+  title: "&8虚空物质制造机"
+  slots:
+    4:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    13:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    22:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    31:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    40:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    45-48:
+      name: "&b输入"
+      material: BLUE_STAINED_GLASS_PANE
+    49:
+      name: "&e未生产"
+      material: ENDER_PEARL
+      progressbar: true
+      progressBarItem:
+        material: END_CRYSTAL
+    50-53:
+      name: "&b输出"
+      material: ORANGE_STAINED_GLASS_PANE
+TESHU_QIDIAN_GOUZAOJI:
+  title: "&6特殊&b奇点构造机"
+  slots:
+    4:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    13:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    22:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    31:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    40:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    45-48:
+      name: "&b输入"
+      material: BLUE_STAINED_GLASS_PANE
+    49:
+      name: "&e未生产"
+      material: ENDER_PEARL
+      progressbar: true
+      progressBarItem:
+        material: END_CRYSTAL
+    50-53:
+      name: "&b输出"
+      material: ORANGE_STAINED_GLASS_PANE
+WUJIN_KAPIANJI_QIDIAN:
+  title: "&b无尽卡片机-&e奇点"
+  slots:
+    4:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    13:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    22:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    31:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    40:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    45-48:
+      name: "&b输入"
+      material: BLUE_STAINED_GLASS_PANE
+    49:
+      name: "&e未生产"
+      material: ENDER_PEARL
+      progressbar: true
+      progressBarItem:
+        material: END_CRYSTAL
+    50-53:
+      name: "&b输出"
+      material: ORANGE_STAINED_GLASS_PANE
+WUJIN_KAPIANJI_KUANGWU:
+  title: "&b无尽卡片机-&e矿物"
+  slots:
+    4:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    13:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    22:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    31:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    40:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    45-48:
+      name: "&b输入"
+      material: BLUE_STAINED_GLASS_PANE
+    49:
+      name: "&e未生产"
+      material: ENDER_PEARL
+      progressbar: true
+      progressBarItem:
+        material: END_CRYSTAL
+    50-53:
+      name: "&b输出"
+      material: ORANGE_STAINED_GLASS_PANE
+CHONGZUJI_1:
+  title: "&b重组机&7-&eI"
+  slots:
+    4:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    13:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    22:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    31:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    40:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    45-48:
+      name: "&b输入"
+      material: BLUE_STAINED_GLASS_PANE
+    49:
+      name: "&e未生产"
+      material: ENDER_PEARL
+      progressbar: true
+      progressBarItem:
+        material: END_CRYSTAL
+    50-53:
+      name: "&b输出"
+      material: ORANGE_STAINED_GLASS_PANE
+CHONGZUJI_2:
+  title: "&b重组机&7-&eII"
+  slots:
+    4:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    13:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    22:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    31:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    40:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    45-48:
+      name: "&b输入"
+      material: BLUE_STAINED_GLASS_PANE
+    49:
+      name: "&e未生产"
+      material: ENDER_PEARL
+      progressbar: true
+      progressBarItem:
+        material: END_CRYSTAL
+    50-53:
+      name: "&b输出"
+      material: ORANGE_STAINED_GLASS_PANE
+CHONGZUJI_3:
+  title: "&b重组机&7-&eIII"
+  slots:
+    4:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    13:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    22:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    31:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    40:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    45-48:
+      name: "&b输入"
+      material: BLUE_STAINED_GLASS_PANE
+    49:
+      name: "&e未生产"
+      material: ENDER_PEARL
+      progressbar: true
+      progressBarItem:
+        material: END_CRYSTAL
+    50-53:
+      name: "&b输出"
+      material: ORANGE_STAINED_GLASS_PANE
+WUJIN_CHONGZUJI:
+  title: "&b无尽重组机"
+  slots:
+    4:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    13:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    22:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    31:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    40:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    45-48:
+      name: "&b输入"
+      material: BLUE_STAINED_GLASS_PANE
+    49:
+      name: "&e未生产"
+      material: ENDER_PEARL
+      progressbar: true
+      progressBarItem:
+        material: END_CRYSTAL
+    50-53:
+      name: "&b输出"
+      material: ORANGE_STAINED_GLASS_PANE
+XUWU_ZHUANHUANJI:
+  title: "&b虚无转换机"
+  slots:
+    4:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    13:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    22:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    31:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    40:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    45-48:
+      name: "&b输入"
+      material: BLUE_STAINED_GLASS_PANE
+    49:
+      name: "&e未生产"
+      material: ENDER_PEARL
+      progressbar: true
+      progressBarItem:
+        material: END_CRYSTAL
+    50-53:
+      name: "&b输出"
+      material: ORANGE_STAINED_GLASS_PANE
+WUJIN_MEIGUI_YANGZHIJI:
+  title: "&b无尽玫瑰养殖机"
+  slots:
+    4:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    13:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    22:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    31:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    40:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    45-48:
+      name: "&b输入"
+      material: BLUE_STAINED_GLASS_PANE
+    49:
+      name: "&e未生产"
+      material: ENDER_PEARL
+      progressbar: true
+      progressBarItem:
+        material: END_CRYSTAL
+    50-53:
+      name: "&b输出"
+      material: ORANGE_STAINED_GLASS_PANE
+WUJIN_QIDIAN_FUZHIJI:
+  title: "&b无尽奇点复制机"
+  slots:
+    4:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    13:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    22:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    31:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    40:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    45-48:
+      name: "&b输入"
+      material: BLUE_STAINED_GLASS_PANE
+    49:
+      name: "&e未生产"
+      material: ENDER_PEARL
+      progressbar: true
+      progressBarItem:
+        material: END_CRYSTAL
+    50-53:
+      name: "&b输出"
+      material: ORANGE_STAINED_GLASS_PANE
+WUJINDING_YITIJI:
+  title: "&e无&a尽&b锭&d一&5体&6机"
+  slots:
+    45-48:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    50-53:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+CHAOJI_WUJINDING_YITIJI:
+  title: "&e超&a级&b无&d尽&5锭&6一&c体&9机"
+  slots:
+    45-48:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE
+    50-53:
+      name: "&a"
+      material: GRAY_STAINED_GLASS_PANE

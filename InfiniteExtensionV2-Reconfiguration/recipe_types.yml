@@ -1,0 +1,18 @@
+XUKONG_WUZHI_ZHIZAOJI:
+  name: "&8虚空物质制造机&f(XUKONG_WUZHI_ZHIZAOJI)"
+  material: CRYING_OBSIDIAN
+  lore:
+  - "&7此物品需要在 &8虚空物质制造机 &7中制作"
+  glow: true
+TESHU_QIDIAN_GOUZAOJI:
+  name: "&6特殊&b奇点构造机&f(TESHU_QIDIAN_GOUZAOJI)"
+  material: QUARTZ_PILLAR
+  lore:
+  - "&7此物品需要在 &6特殊&b奇点构造机 &7中制作"
+  glow: true
+WUJIN_CHONGZUJI:
+  name: "&b无尽重组机&f(WUJIN_CHONGZUJI)"
+  material_type: skull_hash
+  material: 5a612316f8d69ca18184462bd64e1ddb8df99f0df6f9c9c02b4c1a41c132ad97
+  lore:
+  - "&7此物品需要在 &b无尽重组机 &7中制作"
